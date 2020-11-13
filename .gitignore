@@ -3,4 +3,5 @@ package-lock.json
 *.mp4
 *.m4a
 *.webm
+ids.txt
 dist/episode*
