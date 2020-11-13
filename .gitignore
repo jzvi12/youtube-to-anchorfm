@@ -4,4 +4,5 @@ package-lock.json
 *.m4a
 *.webm
 ids.txt
+change_id.sh
 dist/episode*
