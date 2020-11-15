@@ -3,6 +3,8 @@ package-lock.json
 *.mp4
 *.m4a
 *.webm
-ids.txt
+podsync_ids.txt
+new_ids.txt
+anchorfm_ids.txt
 change_id.sh
 dist/episode*
