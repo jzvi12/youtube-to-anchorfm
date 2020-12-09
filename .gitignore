@@ -7,5 +7,6 @@ podsync_ids.txt
 new_ids.txt
 anchorfm_ids.txt
 manual_entries.txt
+cron.log
 change_id.sh
 dist/episode*
